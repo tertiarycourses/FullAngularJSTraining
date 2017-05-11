@@ -1,5 +1,5 @@
 # Full Angular JS Course
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Full Angular JS Course](https://www.tertiarycourses.com.sg/full-angular-js-course.html) course. 
 
